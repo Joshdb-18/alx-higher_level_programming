@@ -1,4 +1,11 @@
 #!/usr/bin/python3
+""" Class that defines a Sqare from Rectangle class
+    Method that initializes a Square
+    Method that returns a string with the area
+    Special method that returns a printable string
+"""
+
+
 Rectangle = __import__('9-rectangle').Rectangle
 
 

@@ -1,4 +1,10 @@
 #!/usr/bin/python3
+""" Class that defines the attributes of Geometric Shapes
+    Method that defines the area of a geometric shape
+    Method that receives tthe vale property
+"""
+
+
 class BaseGeometry:
     """ Class that defines the attributes of Geometric Shapes """
 

@@ -1,4 +1,10 @@
 #!/usr/bin/python3
+""" Class that inherits from class int
+    Method that returns != check
+    Method that returns == check
+"""
+
+
 class MyInt(int):
     """ Class that inherits from class int"""
 
