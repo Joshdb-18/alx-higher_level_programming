@@ -26,6 +26,7 @@ Inside `tests/test_models` folder:
 | `test_rectangle.py` | Module that contains unittests to `Rectangle` class |
 | `test_square.py` | Module that contains unittests to `Square` class |
 
+``Main test files should be compiled at 0x0C-python-almost_a_circle, not in its directory``
 
 ### Author:
 Oluwafemi Damilola Joshua
