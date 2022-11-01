@@ -5,6 +5,7 @@ import csv
 import os.path
 import turtle
 
+
 class Base:
     """ Class Base """
     __nb_objects = 0
@@ -145,6 +146,7 @@ class Base:
         turt.hideturtle()
 
         turtle.exitonclick()@staticmethod
+
     def draw(list_rectangles, list_squares):
         """Draw Rectangles and Squares using the turtle module
         Parameter
@@ -176,4 +178,3 @@ class Base:
         for sq in list_squares:
             turt.showturtle()
             turt.up()
-
