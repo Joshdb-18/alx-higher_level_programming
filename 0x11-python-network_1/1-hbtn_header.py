@@ -1,10 +1,11 @@
 #!/usr/bin/python3
-"""Takes a URL and send a request to it and displays a value found in h response 
+"""Displays the X-Request-Id header variable of a request to a given URL.
 
 Usage: ./1-hbtn_header.py <URL>
 """
 
-import urllib.request, sys
+import urllib.request
+import sys
 
 if __name__ == " __main__":
     url = sys.argv[1]
